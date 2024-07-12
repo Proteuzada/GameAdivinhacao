@@ -1,0 +1,14 @@
+D:\Repositories\ADIVINHAR\ADIVINHAR\bin\Debug\net8.0\ADIVINHAR.exe
+D:\Repositories\ADIVINHAR\ADIVINHAR\bin\Debug\net8.0\ADIVINHAR.deps.json
+D:\Repositories\ADIVINHAR\ADIVINHAR\bin\Debug\net8.0\ADIVINHAR.runtimeconfig.json
+D:\Repositories\ADIVINHAR\ADIVINHAR\bin\Debug\net8.0\ADIVINHAR.dll
+D:\Repositories\ADIVINHAR\ADIVINHAR\bin\Debug\net8.0\ADIVINHAR.pdb
+D:\Repositories\ADIVINHAR\ADIVINHAR\obj\Debug\net8.0\ADIVINHAR.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\ADIVINHAR\ADIVINHAR\obj\Debug\net8.0\ADIVINHAR.AssemblyInfoInputs.cache
+D:\Repositories\ADIVINHAR\ADIVINHAR\obj\Debug\net8.0\ADIVINHAR.AssemblyInfo.cs
+D:\Repositories\ADIVINHAR\ADIVINHAR\obj\Debug\net8.0\ADIVINHAR.csproj.CoreCompileInputs.cache
+D:\Repositories\ADIVINHAR\ADIVINHAR\obj\Debug\net8.0\ADIVINHAR.dll
+D:\Repositories\ADIVINHAR\ADIVINHAR\obj\Debug\net8.0\refint\ADIVINHAR.dll
+D:\Repositories\ADIVINHAR\ADIVINHAR\obj\Debug\net8.0\ADIVINHAR.pdb
+D:\Repositories\ADIVINHAR\ADIVINHAR\obj\Debug\net8.0\ADIVINHAR.genruntimeconfig.cache
+D:\Repositories\ADIVINHAR\ADIVINHAR\obj\Debug\net8.0\ref\ADIVINHAR.dll
